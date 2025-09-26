@@ -1,7 +1,7 @@
 ﻿# HR-Analytical-DB :Attrition, Promotion, & Workforce Strategy (Power BI)
 
 
-**1. Project Title & Live Demo**
+### **1. Project Title & Live Demo**
 
   HR Analytical Dashboard: Attrition, Promotion, & Workforce Strategy (Power BI)
 
@@ -20,7 +20,7 @@
 
 -----
 
-## **3. Technical Skills Demonstrated**
+### **3. Technical Skills Demonstrated**
 
   * **Tool & Languages:** **Power BI Desktop, DAX, SQL** (for potential data preparation).
   * **Data Modeling:** Designed and implemented a robust dimensional model (Star Schema) to support complex filtering and drill-down between the three main sections (HR Dashboard, Details, Attrition).
@@ -30,13 +30,14 @@
 
 -----
 
-## **4. Project Files & Next Steps**
+### **4. Project Files & Next Steps**
 
   * **Project Files:**
       * `HR_Analytical_Dashboard.pbix` (The full Power BI data model and report)
       * `HR_Cleaned_Data.csv` (Anonymized data file)
       * `Dashboard_Screenshots/` (Folder containing all image files)
   * **Connect:** Feel free to connect on LinkedIn or explore my other projects\!
+
 
 
 
