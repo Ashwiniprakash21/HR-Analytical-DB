@@ -3,7 +3,7 @@
 
 **1. Project Title & Live Demo**
 
-# HR Analytical Dashboard: Attrition, Promotion, & Workforce Strategy (Power BI)
+  HR Analytical Dashboard: Attrition, Promotion, & Workforce Strategy (Power BI)
 
 **Live Dashboard Link:** [Insert your public Power BI Service URL here]
 
@@ -37,5 +37,6 @@
       * `HR_Cleaned_Data.csv` (Anonymized data file)
       * `Dashboard_Screenshots/` (Folder containing all image files)
   * **Connect:** Feel free to connect on LinkedIn or explore my other projects\!
+
 
 
