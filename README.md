@@ -11,7 +11,7 @@
 
 -----
 
-## **2. Key Business Insights & Findings**
+ **2. Key Business Insights & Findings**
 
   * **Overall Workforce Health:** The dashboard tracks **1470 Total Employees**, with a significant **Attrition Rate of 16.12%** (237 employees), highlighting a crucial area for business focus.
   * **Targeted Intervention:** The **Attrition page** pinpoints the highest attrition rates are within the **Research & Development** department and among those in the **25-34 age group** (61.61% attrition in that cohort), allowing for targeted retention programs.
@@ -37,6 +37,7 @@
       * `HR_Cleaned_Data.csv` (Anonymized data file)
       * `Dashboard_Screenshots/` (Folder containing all image files)
   * **Connect:** Feel free to connect on LinkedIn or explore my other projects\!
+
 
 
 
